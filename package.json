@@ -1,0 +1,14 @@
+{
+  "name": "alpha-project-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css":"tailwindcss -i ./src/styles.css -o ./public/styles.css -w"
+  },
+  "author": "govind bajaj",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.7"
+  }
+}
